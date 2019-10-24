@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name xc9536xl-vq44)(type Legacy)(uri ${KIPRJMOD}/xc9536xl-vq44.lib)(options "")(descr ""))
+  (lib (name TQFP44)(type Legacy)(uri ${KIPRJMOD}/TQFP44.lib)(options "")(descr ""))
+)
