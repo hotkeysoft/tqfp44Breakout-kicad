@@ -9,6 +9,9 @@ Images
 |------------------------------------------------------|---------------------------------------------------|
 |![Render Front](./img/render-front.jpg "Render Front")|![Render Back](./img/render-back.jpg "Render Back")|
 
+
+![Render](./img/TQFP44.jpg "Render")
+
 ### Schematics (pdf)
 - [Complete schematics](./img/schema.pdf)
 
